@@ -27,7 +27,7 @@ Preparing for Azure certification
 
 ## Projects
 
-[Money Flow](https://money-flow-nu-one.vercel.app/)
+[Money Flow](https://money-flow-nu-one.vercel.app/) **In development**
 
 [Porfolio](https://portafolio-fer-blush.vercel.app/)
 
