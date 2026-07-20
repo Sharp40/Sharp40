@@ -57,5 +57,23 @@ Currently focused on backend architecture, authentication with JWT, and scalable
 [Game Store API](https://github.com/Sharp40/GameStoreAPI)
 
 
+<br>
 
+### Game Store API
+
+**Description**: In this project I built an api for games, something like Steam but less complex, but with the neccessary to create, update, search games, list developers, categories, and authentication using bearer token with Jwt.
+* **Tech Stack**: Postgres, RESTful API using ASP.Net Core.
+* **Key features**:Token-based authentication, layered architecture (Business, Data access and presentation) and minimal apis as well.
+
+[Game Store API](https://github.com/Sharp40/GameStoreAPI)
+
+<br>
+
+### Tienda Carrito
+**Full Stack Development**
+*	Developing a distributed e-commerce application using ASP.NET Core, React, Sql server, Mysql, Postgres, and Docker.
+* Designed and implemented microservices for Authors, Books, Users, Shopping Cart, and Comics, exposing RESTful APIs.
+*	Configured Ocelot API Gateway to centralize request routing and communication between services. Integrated an external Comics API to enrich the application catalog.
+
+[Tienda carrito](https://github.com/Sharp40/AplicacionesDistribuidas-TiendaLibro)
 
