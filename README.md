@@ -39,19 +39,22 @@ Currently focused on backend architecture, authentication with JWT, and scalable
 ### Money Flow (In development)
 
 **Description**: Money Flow is a Web Application to manage your income, goals, expenses making it easier to track your money
-* **Tech Stack**: Postgres, Rest Api with ASP Net Core and React, Websockets with SignalR
-* **key features**: Token-based auth, Clean Architecture and a responsive UI
+* **Tech Stack**: Postgres, Rest Api with ASP Net Core and React
+* **key features**: Token-based auth, Clean Architecture and a responsive UI.
 
 
 [Money Flow](https://money-flow-nu-one.vercel.app/)
 
+
 <br>
 
-### Portfolio
+### Game Store API
+**Description**: In this project I build an api for games, something like Steam but less complex, but with the neccessary to create, update, search games, list developers, categories, and authentication using bearer token with Jwt.
+**Tech Stack**: Postgres, REST API with only ASP Net Core.
+**Key features**:Token-based authentication, layered architecture (Business, Data access and presentation) and minimal apis as well.
 
-Description: Show my personal projects that I've built over time.
+[Game Store API](https://github.com/Sharp40/GameStoreAPI)
 
-[Portfolio](https://portafolio-fer-blush.vercel.app/)
 
 
 
