@@ -29,8 +29,6 @@ Currently focused on backend architecture, authentication with JWT, and scalable
 
 * Improving system design skills
 
-* Preparing for Azure certification
-
 
 <br>
 
