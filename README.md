@@ -51,8 +51,8 @@ Currently focused on backend architecture, authentication with JWT, and scalable
 ### Game Store API
 
 **Description**: In this project I built an api for games, something like Steam but less complex, but with the neccessary to create, update, search games, list developers, categories, and authentication using bearer token with Jwt.
-**Tech Stack**: Postgres, RESTful API using ASP.Net Core.
-**Key features**:Token-based authentication, layered architecture (Business, Data access and presentation) and minimal apis as well.
+* **Tech Stack**: Postgres, RESTful API using ASP.Net Core.
+* **Key features**:Token-based authentication, layered architecture (Business, Data access and presentation) and minimal apis as well.
 
 [Game Store API](https://github.com/Sharp40/GameStoreAPI)
 
